@@ -111,7 +111,7 @@ public class BatmanGame_by_Anooraag_Basu {
         }
 
         System.out.println("##############################");
-        System.out.println("# THANKS FOR PLAYING! #");
+        System.out.println("# THANK YOU FOR PLAYING! #");
         System.out.println("##############################");
         in.close();
     }
