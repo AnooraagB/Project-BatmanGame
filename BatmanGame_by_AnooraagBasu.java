@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class BatmanGame_by_Anooraag_Basu {
+public class BatmanGame_by_AnooraagBasu {
     // Game variables
     static int health = 100;
     static int attackDamage = 30;
