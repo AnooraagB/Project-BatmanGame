@@ -14,7 +14,7 @@ Welcome to “**Batman Game**”, a text-based adventure game I created during a
 
 * Java
 
-## Concepts Used
+## Concepts used
 
 * **Control Flow**: Utilizes `if-else` statements to handle user input and game decisions.
 * **User Input**: Uses the `Scanner` class to capture player choices and drive game actions.
@@ -24,14 +24,14 @@ Welcome to “**Batman Game**”, a text-based adventure game I created during a
 * **Game State Management**: Tracks player health, enemy stats, and potion count throughout the game.
 * **Game Flow**: Manages the overall progression of the game through conditional logic and loops.
 
-## How to Play
+## How to play
 
 * **Attack**: Use your combat skills to deal damage to the enemy.
 * **Health Potions**: Restore your health when things get tough by using your remaining health potions.
 * **Run**: Escape a fight if the odds are against you.
 * **Quit**: Exit Gotham City at any point with the q command.
 
-## Getting Started
+## Getting started
 
 1. Clone this repository.
 2. Make sure to have Java(Java 8 or higher) and JDK installed in your system.
@@ -39,7 +39,7 @@ Welcome to “**Batman Game**”, a text-based adventure game I created during a
 4. Compile and run the programme.
 5. Follow the on-screen prompts to start playing.
    
-## Future Plans
+## Future plans
 
 * Convert the terminal based design into a Graphical User Interface (GUI) for more interactive gameplay.
 * Introduce additional game mechanics like special abilities or weapons.
